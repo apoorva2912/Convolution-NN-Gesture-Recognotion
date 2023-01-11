@@ -1,1 +1,1 @@
-# Convolution-NN-Gesture-Recognotion
+# Convolution-NN-Gesture-Recognition
